@@ -7,7 +7,6 @@ image:
   alt: "The Astro logo on a dark background with a purple gradient arc."
 pubDate: 2026-04-06
 tags: ["astro", "blogging", "learning in public", "successes"]
-layout: ../../layouts/MarkdownPostLayout.astro
 ---
 
 After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
